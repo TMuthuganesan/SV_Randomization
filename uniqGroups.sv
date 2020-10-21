@@ -1,4 +1,4 @@
-//I have a 7 bit par_groups. Every time I randomize, I need to pick 3 groups that are unique and less than 32.
+//There is a 7 bit variable par_groups. Every time it is randomized, 3 groups need to be picked that are unique and less than 32.
 //par_groups is one among these three groups
 
 class test;
